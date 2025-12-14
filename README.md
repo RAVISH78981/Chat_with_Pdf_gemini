@@ -1,4 +1,10 @@
 📄 Chat with PDF (Gemini RAG App)
+<img width="1206" height="724" alt="Screen Shot 2025-12-14 at 12 52 40 PM" src="https://github.com/user-attachments/assets/170713a8-cd16-40f8-b20d-ced7701dc95d" />
+<img width="1208" height="745" alt="Screen Shot 2025-12-14 at 12 53 05 PM" src="https://github.com/user-attachments/assets/f6272634-fa38-4dd2-979c-f6ed8605ee59" />
+<img width="1213" height="727" alt="Screen Shot 2025-12-14 at 12 53 26 PM" src="https://github.com/user-attachments/assets/a9c15d37-b538-4168-9020-14d50abfc7f2" />
+<img width="1208" height="771" alt="Screen Shot 2025-12-14 at 12 53 46 PM" src="https://github.com/user-attachments/assets/e2fb5adb-1fff-484a-8b0f-c12c62dd8bd7" />
+
+
 🌟 Project Overview
 This is a complete, fully-functional web application that allows users to perform Retrieval-Augmented Generation (RAG) over their PDF documents. The app uses the Google Gemini API for both contextual understanding (LLM) and embedding, providing highly accurate, source-grounded answers.
 
